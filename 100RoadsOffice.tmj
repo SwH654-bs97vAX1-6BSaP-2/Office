@@ -2343,6 +2343,7 @@
          "name":"floorLayer",
          "objects":[
                 {
+                 "class":"zone",
                  "height":278.665647261117,
                  "id":875,
                  "name":"zoom1",
@@ -2358,13 +2359,13 @@
                          "value":0.75
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":319.539025667889,
                  "x":2332.0942902043,
                  "y":2019.59731764197
                 }, 
                 {
+                 "class":"zone",
                  "height":280.792481325006,
                  "id":876,
                  "name":"zoom2",
@@ -2380,13 +2381,13 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":278.256587047525,
                  "x":2048.62644668801,
                  "y":2018.66288174092
                 }, 
                 {
+                 "class":"zone",
                  "height":279.7199954454,
                  "id":877,
                  "name":"zoom3",
@@ -2402,13 +2403,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":370.694177303724,
                  "x":1673.9094247246,
                  "y":2019.44839063608
                 }, 
                 {
+                 "class":"zone",
                  "height":236.882601268883,
                  "id":878,
                  "name":"zoom4",
@@ -2424,13 +2425,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":353.007489541599,
                  "x":1669.38809447046,
                  "y":812.98081766328
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":879,
                  "name":"zoom5",
@@ -2446,13 +2447,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":209.490854433624,
                  "x":2021.98548001025,
                  "y":813.37602947207
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":880,
                  "name":"zoom6",
@@ -2468,13 +2469,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":364.539547411583,
                  "x":2237.87980160358,
                  "y":814.268886614927
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":881,
                  "name":"zoom7",
@@ -2490,13 +2491,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":364.539547411584,
                  "x":2683.18486494106,
                  "y":813.37602947207
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":882,
                  "name":"zoom8",
@@ -2512,13 +2513,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":209.491,
                  "x":3048.38212685802,
                  "y":813.37602947207
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":883,
                  "name":"zoom9",
@@ -2534,13 +2535,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":353.007,
                  "x":3258.5308413634,
                  "y":813.37602947207
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":884,
                  "name":"zoom10",
@@ -2556,13 +2557,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":353.007,
                  "x":3255.96805304972,
                  "y":395.641534341363
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":885,
                  "name":"zoom11",
@@ -2578,13 +2579,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":209.491,
                  "x":3044.53794438749,
                  "y":396.922928498206
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":886,
                  "name":"zoom12",
@@ -2600,13 +2601,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":364.54,
                  "x":2679.98115325474,
                  "y":396.922928498206
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":887,
                  "name":"zoom13",
@@ -2622,13 +2623,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":364.54,
                  "x":2234.0559866735,
                  "y":396.922928498206
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":888,
                  "name":"zoom14",
@@ -2644,13 +2645,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":209.491,
                  "x":2023.26680138391,
                  "y":396.922928498206
                 }, 
                 {
+                 "class":"zone",
                  "height":236.883,
                  "id":889,
                  "name":"zoom15",
@@ -2666,13 +2667,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":353.007,
                  "x":1669.60208687852,
                  "y":398.204322655049
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":891,
                  "name":"office-hours-5",
@@ -2683,13 +2684,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vTkKtyVrhV_Ohdg0APPcaHE_1Sv9lH98COGR6ylwPmTfF1ji6VspSQfAChPhhjWbMPu16haIIGM13uU\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":1919.97812009818,
                  "y":1056.13198744467
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":892,
                  "name":"office-hours-6",
@@ -2700,13 +2701,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQrYQx_ZboQ01v1WDXGlTGeTEJyvNmdnQv88hTnPsyKPOH1lrQPikrgHeTedXLBX9KsqF_1hJMIxJ1Q\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":2495.83812009818,
                  "y":1054.07198744467
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":893,
                  "name":"office-hours-7",
@@ -2717,13 +2718,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQJkghZkGHEGE6no6uZ14V8MNEZYtacsniB6ZDdSeSyBLGFqmSCMcN5_4-k62CjSJewFSgWzUiBJHT9\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":2719.60812009818,
                  "y":1054.07198744467
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":894,
                  "name":"office-hours-8",
@@ -2734,13 +2735,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSrcgzvShK67Fp-Nv17hmUyKSLFJygJvW5enD7FMjk_UWwWg6jIJZSJrF4TWJXC4BCuT6vyd_nbgIyf\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":3296.48812009818,
                  "y":1056.13198744467
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":895,
                  "name":"office-hours-9",
@@ -2751,13 +2752,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSJXEHYX3JQ-7QOL8tbiWe1-MK2g9GEocI23YH5kLsq224Z41RKwWyUFyyGRbxVOFcoUWZCrN2wcMLU\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":3296.48812009818,
                  "y":637.322987444666
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":896,
                  "name":"office-hours-10",
@@ -2768,13 +2769,13 @@
                          "value":""
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":2719.60812009818,
                  "y":638.349987444666
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":897,
                  "name":"office-hours-11",
@@ -2785,13 +2786,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vRMZoPO0vLCNghVuj7M6DmlcAlSchiW7nx8nMtkOI2PllXMrhbu-Xf7rkgcf-8JOMeKO-R9wu9YZRoh\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":2495.83812009818,
                  "y":639.375987444666
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":898,
                  "name":"office-hours-12",
@@ -2802,13 +2803,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQ9oRPt3STynGf4mWJ_Z_PkIiKsuwj6h_Cml1se3mG88khpxP38McpX_hRUS0GNC5EEMe_kTUsu2Rey\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":1919.97812009818,
                  "y":639.375987444666
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":899,
                  "name":"office-hours-2",
@@ -2819,13 +2820,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSLi9Nia5idO0eNs9Af7A7DV3lGmBUWUBni8l4FCoqfRulDHwnLTx5_mYeG5pW_IenLwtT6q7y2zGTS\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":2173.92762658008,
                  "y":2303.20185190342
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":900,
                  "name":"office-hours-1",
@@ -2836,13 +2837,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQUWnMAMp5lUBOyp8P1Ki68iLZ66eRi7ax6MGEU4Bfp0dA91yhsJhn-JlbJKcBbDncQUyfdER7wf81L\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":2430.16234400442,
                  "y":2303.37185190342
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":901,
                  "name":"office-hours-3",
@@ -2853,13 +2854,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vRma0ZCeuQXDe_YtcS2Iac8UYfqOGiddPELmz2FYnrG9zWtu0mgzC5g4_WswjG0YVVlHhOczzck-a0C\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":1855.90607981235,
                  "y":2303.64185190342
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":902,
                  "name":"office-hours-4",
@@ -2870,13 +2871,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vS6r7V6OV8ln2emjtCp4zwPRLRThuS7QGjQDZx4cJlVdGw9okejKSNVJDrMAahPMdvATKztc4N5byWH\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":1504.43263093886,
                  "y":2302.75185190342
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":903,
                  "name":"office-hours-13",
@@ -2887,13 +2888,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vRCaTFJbsKGlsHOG74xWTimdQcuomP2Tq7FnjuhdJIxiSYl667FTqlNokZOxjcBAyKo2UfnI1bcu5el\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":62.921,
                  "x":1856.14408252736,
                  "y":2303.59373801633
                 }, 
                 {
+                 "class":"area",
                  "height":64.5435431252668,
                  "id":904,
                  "name":"gd-iryna-g",
@@ -2909,13 +2910,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":140.980985173978,
                  "x":2180.96401089274,
                  "y":2208.40494517022
                 }, 
                 {
+                 "class":"area",
                  "height":39.0106830427992,
                  "id":905,
                  "name":"toptracker-iryna-g",
@@ -2936,13 +2937,13 @@
                          "value":"TopTracker"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":31.0916562413504,
                  "x":2144.02490002289,
                  "y":2042.88464947236
                 }, 
                 {
+                 "class":"area",
                  "height":30.9922549934759,
                  "id":906,
                  "name":"photopea-iryna-g",
@@ -2963,13 +2964,13 @@
                          "value":"Photopea"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":31.66394292417,
                  "x":2272.31403925311,
                  "y":2208.73770560238
                 }, 
                 {
+                 "class":"area",
                  "height":39.0343,
                  "id":907,
                  "name":"calendar-iryna-g",
@@ -2985,13 +2986,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":32.04,
                  "x":2175.98611971696,
                  "y":2042.82746656148
                 }, 
                 {
+                 "class":"area",
                  "height":31.0174,
                  "id":908,
                  "name":"tech-request-form",
@@ -3002,13 +3003,13 @@
                          "value":"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSccRF4D4Ec5KVfADC8daRZ-c7WOi9UlK4ZJ6kzNN0o2SxW8xQ\/viewform?embedded=true"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":30.9331858339679,
                  "x":2048.69595822178,
                  "y":2304.26426422847
                 }, 
                 {
+                 "class":"area",
                  "height":876.228811151843,
                  "id":909,
                  "name":"music1",
@@ -3029,13 +3030,13 @@
                          "value":"\/entrance-jazz.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":2168.30243547801,
                  "x":1317.70265358052,
                  "y":1713.73847347193
                 }, 
                 {
+                 "class":"area",
                  "height":60.6216948278088,
                  "id":910,
                  "name":"exit-to-boat",
@@ -3046,13 +3047,13 @@
                          "value":"#entry\/entry-boat"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":19.3473494131304,
                  "x":4831.67806010577,
                  "y":2880.17541596801
                 }, 
                 {
+                 "class":"area",
                  "height":43.8539920030958,
                  "id":911,
                  "name":"exit-from-boat",
@@ -3063,13 +3064,13 @@
                          "value":"#entry\/entry-from-boat"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":59.3318715336,
                  "x":4613.6979233845,
                  "y":3314.84586611634
                 }, 
                 {
+                 "class":"zone",
                  "height":704.821900866093,
                  "id":913,
                  "name":"zoom16",
@@ -3085,13 +3086,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":941.079541269472,
                  "x":741.916884752043,
                  "y":604.405056012385
                 }, 
                 {
+                 "class":"zone",
                  "height":1142.94360606061,
                  "id":914,
                  "name":"zoom17",
@@ -3107,13 +3108,13 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":1143.91609090909,
                  "x":3714.40559090909,
                  "y":639.134257575758
                 }, 
                 {
+                 "class":"area",
                  "height":749.38891035516,
                  "id":915,
                  "name":"birds1",
@@ -3134,13 +3135,13 @@
                          "value":"\/birds2.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":5626.37586303878,
                  "x":-14.2411854103349,
                  "y":3226.08832368739
                 }, 
                 {
+                 "class":"area",
                  "height":39.0107,
                  "id":918,
                  "name":"toptracker-zorana",
@@ -3161,13 +3162,13 @@
                          "value":"TopTracker"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":31.0917,
                  "x":2368.87599715379,
                  "y":2040.45900685082
                 }, 
                 {
+                 "class":"area",
                  "height":187.197866285775,
                  "id":919,
                  "name":"gd-zorana",
@@ -3183,13 +3184,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":127.993651717969,
                  "x":2335.3053187716,
                  "y":2020.35431143202
                 }, 
                 {
+                 "class":"area",
                  "height":126.394980815599,
                  "id":920,
                  "name":"silent-1",
@@ -3200,13 +3201,13 @@
                          "value":true
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":118.966392913303,
                  "x":2527.89692173774,
                  "y":2048.24175348111
                 }, 
                 {
+                 "class":"area",
                  "height":176.619935975273,
                  "id":921,
                  "name":"fire1",
@@ -3227,13 +3228,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.866431173419,
                  "x":1377.63550060713,
                  "y":3038.96677337454
                 }, 
                 {
+                 "class":"area",
                  "height":176.62,
                  "id":922,
                  "name":"fire2",
@@ -3254,13 +3255,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.866,
                  "x":1057.51208223866,
                  "y":3041.17449056187
                 }, 
                 {
+                 "class":"area",
                  "height":176.62,
                  "id":923,
                  "name":"fire3",
@@ -3281,13 +3282,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.866,
                  "x":738.492322883321,
                  "y":3038.96674136218
                 }, 
                 {
+                 "class":"area",
                  "height":176.62,
                  "id":924,
                  "name":"fire4b",
@@ -3308,13 +3309,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.866,
                  "x":3343.4801763039,
                  "y":413.770935092535
                 }, 
                 {
+                 "class":"area",
                  "height":176.62,
                  "id":925,
                  "name":"fire4",
@@ -3335,13 +3336,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.866,
                  "x":2321.13842857143,
                  "y":827.761428571428
                 }, 
                 {
+                 "class":"area",
                  "height":94.9619,
                  "id":926,
                  "name":"chess1",
@@ -3357,13 +3358,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.924,
                  "x":1086.51948148148,
                  "y":2272.27213641975
                 }, 
                 {
+                 "class":"area",
                  "height":94.9619,
                  "id":927,
                  "name":"chess3",
@@ -3379,13 +3380,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.924,
                  "x":1090.22318518519,
                  "y":2463.63016111111
                 }, 
                 {
+                 "class":"area",
                  "height":94.9619,
                  "id":928,
                  "name":"chess2",
@@ -3401,13 +3402,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":189.924,
                  "x":1088.98861728395,
                  "y":2369.80300061728
                 }, 
                 {
+                 "class":"area",
                  "height":110.193826274228,
                  "id":929,
                  "name":"presentation-cath",
@@ -3423,13 +3424,13 @@
                          "value":"onicon"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":95.4773869346732,
                  "x":1568.19813352477,
                  "y":1696.69777458722
                 }, 
                 {
+                 "class":"area",
                  "height":39.0107,
                  "id":930,
                  "name":"dubsado-zorana",
@@ -3450,13 +3451,13 @@
                          "value":"Dubsado"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":31.0917,
                  "x":2559.88923200826,
                  "y":2072.22704848086
                 }, 
                 {
+                 "class":"area",
                  "height":39.0107,
                  "id":932,
                  "name":"notion-zorana",
@@ -3477,13 +3478,13 @@
                          "value":"Notion"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":31.0917,
                  "x":2368.74528976879,
                  "y":2040.50883972497
                 }, 
                 {
+                 "class":"area",
                  "height":1125.07367504188,
                  "id":938,
                  "name":"music2",
@@ -3504,13 +3505,13 @@
                          "value":"\/entrance-jazz.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":924.916445561139,
                  "x":747.061598548297,
                  "y":602.841163595756
                 }, 
                 {
+                 "class":"area",
                  "height":1326.11385335348,
                  "id":940,
                  "name":"music3",
@@ -3531,13 +3532,13 @@
                          "value":"\/entrance-jazz.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":1928.29419205909,
                  "x":1677.81966297322,
                  "y":398.569028162512
                 }, 
                 {
+                 "class":"area",
                  "height":1210.48386930244,
                  "id":941,
                  "name":"music4",
@@ -3558,13 +3559,13 @@
                          "value":"\/entrance-jazz.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":1388.79904430589,
                  "x":3463.85220684831,
                  "y":768.601765508266
                 }, 
                 {
+                 "class":"area",
                  "height":3272.60369193735,
                  "id":943,
                  "name":"birds7",
@@ -3585,13 +3586,13 @@
                          "value":"\/birds2.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":768.495977382875,
                  "x":-27.0857864535583,
                  "y":-2.42216680637057
                 }, 
                 {
+                 "class":"area",
                  "height":322.432807881773,
                  "id":944,
                  "name":"fire5",
@@ -3612,13 +3613,13 @@
                          "value":"\/fire.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":223.363536945813,
                  "x":736.478048640243,
                  "y":1310.68389023308
                 }, 
                 {
+                 "class":"area",
                  "height":64.039408866995,
                  "id":945,
                  "name":"Shopify",
@@ -3639,24 +3640,24 @@
                          "value":"Shop Our Maps"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":157.976946139581,
                  "x":3168.13142824466,
                  "y":2079.80295566502
                 }, 
                 {
+                 "class":"area",
                  "height":67.9999999999998,
                  "id":946,
                  "name":"test_popup_var",
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":100,
                  "x":1724,
                  "y":2033.33333333333
                 }, 
                 {
+                 "class":"area",
                  "height":3304.43919804396,
                  "id":947,
                  "name":"birds6",
@@ -3677,13 +3678,13 @@
                          "value":"\/birds2.mp3"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":711.955264970445,
                  "x":4861.19019069648,
                  "y":-15.9237740940633
                 }, 
                 {
+                 "class":"area",
                  "height":323.865739740451,
                  "id":951,
                  "name":"music5",
@@ -3704,13 +3705,13 @@
                          "value":"\/entrance-jazz.mp3"
                         }],
                  "rotation":44.8317313665563,
-                 "type":"area",
                  "visible":true,
                  "width":164.248020142723,
                  "x":3581.83237095819,
                  "y":1859.13163212498
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754449350994,
                  "id":952,
                  "name":"exit-moi",
@@ -3721,13 +3722,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/marketplace-of-ideas\/marketplace-of-ideas.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445202729828,
                  "x":5227.48561488024,
                  "y":2124.31419777867
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":953,
                  "name":"exit-ls",
@@ -3738,13 +3739,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/living-systems\/living-systems.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":5323.163398334,
                  "y":2218.98838055667
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":954,
                  "name":"exit-storytellling",
@@ -3755,13 +3756,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/storytelling\/storytelling.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":5323.163398334,
                  "y":2348.1199207681
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":955,
                  "name":"exit-lotu",
@@ -3772,13 +3773,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/laws-of-the-universe\/lotu.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":5227.48562501673,
                  "y":2412.35115320487
                 }, 
                 {
+                 "class":"area",
                  "height":159.489633173844,
                  "id":956,
                  "name":"map-right-wing",
@@ -3789,13 +3790,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1wTqU98KXu5HVpVShR14rHTvgJYsTdMUL\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":128.887559808612,
                  "x":5023.18334375403,
                  "y":2206.27325890484
                 }, 
                 {
+                 "class":"website",
                  "height":290.658626580263,
                  "id":967,
                  "name":"billboard",
@@ -3806,13 +3807,13 @@
                          "value":"https:\/\/player.vimeo.com\/video\/723480027?h=2f2ade7d86h"
                         }],
                  "rotation":0,
-                 "type":"website",
                  "visible":true,
                  "width":290.674144221886,
                  "x":1391.41371945064,
                  "y":2286.75359128107
                 }, 
                 {
+                 "class":"area",
                  "height":137.692632486512,
                  "id":971,
                  "name":"map-bottom",
@@ -3823,13 +3824,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1p02NIZbCmhqsLLzNgqDjrC7jRNlOlvqH\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":126.828027183146,
                  "x":2719.59155831695,
                  "y":3447.06964836993
                 }, 
                 {
+                 "class":"area",
                  "height":159.49,
                  "id":973,
                  "name":"map-left-wing",
@@ -3840,13 +3841,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/11VU4J2FeY-P1HX2vrFAF81itWRGMwYzx\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":128.888,
                  "x":447.562624344465,
                  "y":1939.2999903395
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":974,
                  "name":"exit-playground",
@@ -3857,13 +3858,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/playground"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":2923.32046737915,
                  "y":3563.49326418322
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":975,
                  "name":"exit-fitness",
@@ -3874,13 +3875,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/fitness-center"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":2860.17820656144,
                  "y":3692.75903884686
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":976,
                  "name":"exit-project-labs",
@@ -3891,13 +3892,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/project-labs"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":2668.46570982259,
                  "y":3692.10680821811
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":977,
                  "name":"exit-career-cluster",
@@ -3908,13 +3909,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/cluster-right.json"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":2603.85156946256,
                  "y":3564.26960498304
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":978,
                  "name":"exit-caas",
@@ -3925,13 +3926,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/caas-exterior.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":330.594416666667,
                  "y":1867.59563333333
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":979,
                  "name":"exit-hbt",
@@ -3942,13 +3943,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/hope-brain-trust\/hope-brain-trust"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":235.261083333333,
                  "y":1962.92896666667
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":980,
                  "name":"exit-museum",
@@ -3959,13 +3960,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/museum\/100-roads-front.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":234.594416666666,
                  "y":2091.59563333333
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":981,
                  "name":"exit-otcl",
@@ -3976,13 +3977,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/orientation-to-colearning.tmj"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":331.92775,
                  "y":2155.59563333333
                 }, 
                 {
+                 "class":"zone",
                  "height":649.69166780771,
                  "id":982,
                  "name":"zoom2",
@@ -3998,13 +3999,13 @@
                          "value":0.5
                         }],
                  "rotation":0,
-                 "type":"zone",
                  "visible":true,
                  "width":703.812805075231,
                  "x":1760.71430260499,
                  "y":2577.38746715748
                 }, 
                 {
+                 "class":"area",
                  "height":159.49,
                  "id":983,
                  "name":"bee-website",
@@ -4025,13 +4026,13 @@
                          "value":"beenius.world"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":128.888,
                  "x":1408.36033246998,
                  "y":2814.0623934542
                 }, 
                 {
+                 "class":"area",
                  "height":85.9792320610686,
                  "id":984,
                  "name":"how-to",
@@ -4052,13 +4053,13 @@
                          "value":"How to make Beenius Infinity Wax"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":94.9820687022902,
                  "x":1855.56240076336,
                  "y":2589.83481145038
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":985,
                  "name":"exit-small-forest-school",
@@ -4069,13 +4070,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/small-forest-school-premium"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":2923.81759509467,
                  "y":3371.65644802065
                 }, 
                 {
+                 "class":"area",
                  "height":39.4754,
                  "id":986,
                  "name":"exit-forest-school",
@@ -4083,16 +4084,16 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/template-forest-school"
+                         "value":"https:\/\/play.workadventu.re\/@\/workspacesky\/100-roads-design\/forest-school-premium"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":40.1445,
                  "x":2603.67990146299,
                  "y":3370.96797986231
                 }, 
                 {
+                 "class":"area",
                  "height":104.823333333333,
                  "id":987,
                  "name":"birthday1",
@@ -4103,13 +4104,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1CkEVLEJD2lFiJdoKXz_vM8S1hrcTioYw\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":114.221333333333,
                  "x":1080.88933333333,
                  "y":1732.255
                 }, 
                 {
+                 "class":"area",
                  "height":122.156333333333,
                  "id":988,
                  "name":"birthday2",
@@ -4120,13 +4121,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1CkEVLEJD2lFiJdoKXz_vM8S1hrcTioYw\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":114.221,
                  "x":4308.22283333333,
                  "y":2128.92183333333
                 }, 
                 {
+                 "class":"area",
                  "height":116.823,
                  "id":989,
                  "name":"birthday3",
@@ -4137,13 +4138,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1CkEVLEJD2lFiJdoKXz_vM8S1hrcTioYw\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":114.221,
                  "x":2960.22283333333,
                  "y":1803.5885
                 }, 
                 {
+                 "class":"area",
                  "height":104.823,
                  "id":990,
                  "name":"interns1",
@@ -4154,13 +4155,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSTDssuerah4zI6r6ZLIv0XzkVkxVychAcdW_bfvR-kgezK33C6uQi8N9-7JQy7ug8U2GQRmc14dHMn\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":114.221,
                  "x":1197.55616666667,
                  "y":1732.92183333333
                 }, 
                 {
+                 "class":"area",
                  "height":123.489666666667,
                  "id":991,
                  "name":"interns2",
@@ -4171,13 +4172,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSTDssuerah4zI6r6ZLIv0XzkVkxVychAcdW_bfvR-kgezK33C6uQi8N9-7JQy7ug8U2GQRmc14dHMn\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":114.221,
                  "x":4425.55616666667,
                  "y":2127.5885
                 }, 
                 {
+                 "class":"area",
                  "height":104.823,
                  "id":992,
                  "name":"interns3",
@@ -4188,13 +4189,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vSTDssuerah4zI6r6ZLIv0XzkVkxVychAcdW_bfvR-kgezK33C6uQi8N9-7JQy7ug8U2GQRmc14dHMn\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":114.221,
                  "x":2278.8895,
                  "y":2472.92183333333
                 }, 
                 {
+                 "class":"area",
                  "height":96.7124448974619,
                  "id":993,
                  "name":"map-out-1",
@@ -4205,13 +4206,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1oiIfV8eW4EGNDruWKtCLPySn9InuWr71\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":101.679929266136,
                  "x":2797.3032714412,
                  "y":2590.06916429794
                 }, 
                 {
+                 "class":"area",
                  "height":95.1338430195537,
                  "id":994,
                  "name":"map-out-2",
@@ -4222,13 +4223,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1oiIfV8eW4EGNDruWKtCLPySn9InuWr71\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":132.626065428824,
                  "x":3565.42878868258,
                  "y":3104.46826356754
                 }, 
                 {
+                 "class":"area",
                  "height":95.8146138368151,
                  "id":995,
                  "name":"map-in-1",
@@ -4239,13 +4240,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1KMdxcUsyiI_BOxgULBOOEmceJ0SwkF_L\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":108.821581860382,
                  "x":2761.15785752544,
                  "y":2463.25141473844
                 }, 
                 {
+                 "class":"area",
                  "height":110.097763720764,
                  "id":996,
                  "name":"map-in-2",
@@ -4256,13 +4257,13 @@
                          "value":"https:\/\/drive.google.com\/file\/d\/1KMdxcUsyiI_BOxgULBOOEmceJ0SwkF_L\/preview"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":126.675954650956,
                  "x":3569.9417941439,
                  "y":1728.56118777004
                 }, 
                 {
+                 "class":"area",
                  "height":95.1338,
                  "id":997,
                  "name":"info-1",
@@ -4273,13 +4274,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vS0pTsRgbzDVnapaoS4LueCSvOCR3bu1_7R_CD8YtQK2gBLIkOg-Y0FYu8oHa9d6OsOsVhNzZ0D6ran\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":97.9725346534656,
                  "x":3455.7289444194,
                  "y":3104.41921987605
                 }, 
                 {
+                 "class":"area",
                  "height":95.1338,
                  "id":998,
                  "name":"info-2",
@@ -4290,13 +4291,13 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vS0pTsRgbzDVnapaoS4LueCSvOCR3bu1_7R_CD8YtQK2gBLIkOg-Y0FYu8oHa9d6OsOsVhNzZ0D6ran\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":97.9725,
                  "x":2014.34181612374,
                  "y":2463.67656663425
                 }, 
                 {
+                 "class":"area",
                  "height":95.1338,
                  "id":999,
                  "name":"info-3",
@@ -4307,7 +4308,6 @@
                          "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vS0pTsRgbzDVnapaoS4LueCSvOCR3bu1_7R_CD8YtQK2gBLIkOg-Y0FYu8oHa9d6OsOsVhNzZ0D6ran\/embed?start=false&loop=false&delayms=3000"
                         }],
                  "rotation":0,
-                 "type":"area",
                  "visible":true,
                  "width":97.9725,
                  "x":2687.15768535107,
@@ -5565,7 +5565,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -23853,6 +23853,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.10",
+ "version":"1.9",
  "width":174
 }
