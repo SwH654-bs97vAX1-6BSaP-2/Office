@@ -4312,6 +4312,28 @@
                  "width":97.9725,
                  "x":2687.15768535107,
                  "y":2590.99374648929
+                }, 
+                {
+                 "class":"area",
+                 "height":237.176121422705,
+                 "id":1000,
+                 "name":"presentation-designers",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQmyVxjN-pDsukLIUvkGVsLN4xQ16-Ys4eMBmbZbAwIHYvQQ_ftZ0JqEcJKwTMN-gmHfgQKEXSuzDgO\/embed?start=false&loop=false&delayms=3000"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":208.560980769474,
+                 "x":3048.47710643123,
+                 "y":813.561790826963
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -5541,7 +5563,7 @@
          "y":0
         }],
  "nextlayerid":56,
- "nextobjectid":1000,
+ "nextobjectid":1001,
  "orientation":"orthogonal",
  "properties":[
         {
